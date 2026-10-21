@@ -1,0 +1,2 @@
+# app-license
+License Aplication
